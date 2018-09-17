@@ -1,0 +1,17 @@
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\EuropanIndependence.exe
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\EuropanIndependence.pdb
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\obj\Debug\EuropanIndependence.csprojResolveAssemblyReference.cache
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\obj\Debug\EuropanIndependence.exe
+c:\users\jlarsen\documents\visual studio 2017\Projects\EuropanIndependence\EuropanIndependence\obj\Debug\EuropanIndependence.pdb
